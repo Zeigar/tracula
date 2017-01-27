@@ -1,4 +1,4 @@
-FROM bids/base_fsl
+FROM bids/base_fsl:latest
 
 
 #### FreeSurfer
